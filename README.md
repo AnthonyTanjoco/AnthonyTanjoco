@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/anthonytanjoco/threat-hunting-scenario-tor)**
 
+## 🛡️ Ubuntu Laptop Parental Control
+
+- **[Ubuntu Parental Control & Brave Lockdown Blueprint](https://github.com/AnthonyTanjoco/Ubuntu-Laptop-Parental-Control)**
+  
 <hr/>
 
 ## 🤳 Connect With Me
